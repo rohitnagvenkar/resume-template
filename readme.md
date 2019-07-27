@@ -8,7 +8,7 @@ I created this as an opportunity to learn LateX, steep learning curve but I can 
 over google docs or word.
 
 ### Newbies of LateX
-The code is easy to understand and I have made an effort to comment sections so it is easy to look at and not get flusted,
+The code is easy to understand and I have made an effort to comment sections so it is easy to look at and not get flustered,
 at first sight, don't be afraid to take the first step.
 
 ### LateX Program
